@@ -120,7 +120,7 @@ body {
 }
 
 .task-item i {
-  background-color: #FA6565;
+  background-color: #fa6450;
   color: #fff;
   padding: 12px;
   border-radius: 5px;
@@ -148,34 +148,39 @@ body {
 
 @media screen and (max-width: 662px) {
 
-  .header {
-    padding-left: 100px;
-    padding-top: 100px;
-  }
-
-  .header img {
-    height: 75px;
-    margin-top: 100px;
-    margin-bottom: 1px;
-  }
-
   .container {
+    height: 100vh;
     border: 1px solid #fefefe;
     margin: auto;
     width: 90%;
-    padding-right: 40px;
-    padding-left: 20;
+
+  }
+
+  .header {
+    align-items: center;
+    justify-content: center;
+  }
+
+  .header img {
+    margin-top: 50px;
+    margin-bottom: 1px;
   }
 
   .new-task-container {
     box-shadow: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
 
+  .new-task-button {
+    width: 100px;
+    margin-top: 25px;
+  }
 
   .tasks-container {
-    max-height: 500px;
+    max-height: 350px;
     box-shadow: none;
   }
-
 
 }
