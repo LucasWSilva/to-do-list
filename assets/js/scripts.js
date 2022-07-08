@@ -141,3 +141,10 @@ addTaskButton.addEventListener("click", () => handleAddTask());
 
 //Executa a função para remover o erro caso o valor do input seja true
 inputElement.addEventListener("change", () => handleInputChange());
+
+//Chama o evento de adicionar ao apertar Enter
+document.addEventListener("keypress", function(e){
+  if(e.key == 'Enter') {
+    handleAddTask();
+  }
+});
