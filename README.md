@@ -18,5 +18,5 @@ O projeto também inclui a funcionalidade de armazenar as tarefas no LocalStorag
 - CSS
 - JavaScript
 
-## Créditos
-Este projeto foi criado por Lucas Wilian. Sinta-se à vontade para usá-lo e modificá-lo conforme necessário.
+### Github Pages
+https://lucaswsilva.github.io/to-do-list/
