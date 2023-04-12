@@ -14,9 +14,9 @@ O projeto também inclui a funcionalidade de armazenar as tarefas no LocalStorag
 6. Clique no ícone da lixeira para excluir uma tarefa
 
 ## Tecnologias usadas
-- HTML
-- CSS
-- JavaScript
+- <img src="https://img.shields.io/badge/-HTML5-orange"/>
+- <img src="https://img.shields.io/badge/-CSS3-blue" />
+- <img src="https://img.shields.io/badge/-JavaScript-yellow" />
 
 ### Github Pages
 https://lucaswsilva.github.io/to-do-list/
