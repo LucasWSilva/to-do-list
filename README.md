@@ -13,7 +13,7 @@ O projeto também inclui a funcionalidade de armazenar as tarefas no LocalStorag
 5. Clique na tarefa para marcá-la como concluída
 6. Clique no ícone da lixeira para excluir uma tarefa
 
-## Tecnologias usadas
+## Tecnologias utilizadas
 - <img src="https://img.shields.io/badge/-HTML5-orange"/>
 - <img src="https://img.shields.io/badge/-CSS3-blue" />
 - <img src="https://img.shields.io/badge/-JavaScript-yellow" />
